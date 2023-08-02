@@ -1,0 +1,16 @@
+{
+    "workbench.colorCustomizations": {
+        
+
+    },
+    "editor.semanticTokenColorCustomizations": {
+
+    },
+    "editor.tokenColorCustomizations": {
+        "[Metro Dark]": {
+            "comments": "#84A7A1",
+            "keywords": "#92b1d2"
+
+        }
+    }
+}
